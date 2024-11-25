@@ -1,0 +1,31 @@
+// current experiment variables 
+let a1_l = parseFloat((4.5 + Math.random() * 0.5).toFixed(1)); // m
+let a1_b = parseFloat((2.5 + Math.random()).toFixed(1)); // m
+let a1_surface_temp = parseInt((250 + Math.random() * 100).toFixed(0)); // celcius
+let a1_h = 20; // w/m2-k
+const boltzmann_constant = 5.67e-8; // w/m2-k4
+let a1_env_temp = parseInt((30 + Math.random() * 10).toFixed(0)); // celcius
+let a1_epsilon = 0.8;
+let a1_t1 = a1_surface_temp + 273; // kelvin
+let a1_t2 = a1_env_temp + 273; // kelvin
+let a1_a = a1_l * a1_b; // m2
+let a1_qc = 0; // w
+let a1_qr = 0; // w
+let a1_qt = 0; // w
+let a1_ht = 0;
+//  a2
+let a2_gas_temp = parseInt((2000 + Math.random() * 100).toFixed(0)); // celcius
+let a2_env_temp = parseInt((30 + Math.random() * 10).toFixed(0)); // celcius
+let a2_q_radi = 23; // kw/m2
+let a2_h_inner = 12; // w/m2-k
+let a2_r_cond = 0.0173; // m2-k/w
+let a2_q_rado = 10; // kw/m2
+let a2_inner_wall_temp = parseInt((900 + Math.random() * 100).toFixed(0)); // celcius
+let a2_a = 1; // m2
+let a2_r_ci = 0; // m2-k/w
+let a2_q_ci = 0; // w
+let a2_q = 0; // w
+let a2_t_s2 = 0; //celcius
+let a2_q_co = 0; // w
+let a2_h2 = 0; // w/m2-k
+//# sourceMappingURL=data.js.map
