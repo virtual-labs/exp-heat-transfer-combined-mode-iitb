@@ -11,7 +11,7 @@
 
    {
        "question": "A metal surface with dimension (L x W) 4.6 m x 2.9 m at a temperature 278<sup>o</sup> C has surrounding temperature 38<sup>o</sup> C. Convective heat transfer coefficient (h) is 20 w/m<sup>2</sup>-k & emissivity of surface is (ε) 0.8. Take value of Boltzmann Constant as 5.67 x 10<sup>-8</sup> w/m<sup>2</sup>-k<sup>4</sup> <br> T1 = (278 + 273) K <br> T2 = (38 + 273) K. Calculate heat loss by the radiation <br> Q<sub>r</sub> = &sigma; A &epsilon;(T<sub>1</sub><sup>4</sup> - T<sub>2</sub><sup>4</sup>)",
-       "qid": 1,
+       "qid": 2,
        "option_a": "68113.74 W",
        "option_b": "40122.74 W",
        "option_c": "50113.74 W",
