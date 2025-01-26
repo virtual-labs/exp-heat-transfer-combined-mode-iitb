@@ -25,6 +25,6 @@
         "option_b": "$$ \\frac{1}{h_cA} =  \\frac{h_rA}{hA} $$",
         "option_c": "$$ \\frac{1}{h_cA} = \\frac{hA}{h_rA} $$",
         "option_d": "$$ \\frac{1}{h_cA} = \\frac{1}{h_rA} - \\frac{1}{hA} $$",
-        "correct_option": "b"
+        "correct_option": "a"
     }
 ]
