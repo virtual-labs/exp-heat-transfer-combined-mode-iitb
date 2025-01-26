@@ -1,30 +1,30 @@
 [
 
     {
-        "question": "Pressure head is given by",
+        "question": "The radiative heat transfer coefficient is given by",
         "qid": 1,
-        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
-        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
-        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
-        "option_d": "$$ z $$",
+        "option_a": "$$ h_r = \\sigma \\epsilon (T - T_f)(T^2 + T_f^2) $$",
+        "option_b": "$$ h_r = \\sigma \\epsilon (T + T_f)(T^2 - T_f^2) $$",
+        "option_c": "$$ h_r = \\sigma \\epsilon (T + T_f)(T^2 + T_f^2) $$",
+        "option_d": "$$ h_r = \\sigma \\epsilon (T - T_f)(T^2 - T_f^2) $$",
         "correct_option": "c"
     },
     {
-        "question": "Velocity head is given by",
+        "question": "The radiative heat transfer coefficient for composite bodies is given by",
         "qid": 2,
-        "option_a": "$$ \\frac{v^2}{2g} $$",
-        "option_b": "$$ \\frac{v^2}{2} $$",
-        "option_c": "$$ \\frac{v^2}{g} $$",  
-        "option_d": "$$ \\frac{v^2}{2g} + z $$",
+        "option_a": "$$ h_r = 4s \\ c \\ T^3_f $$",
+        "option_b": "$$ h_r = 3s \\ c \\ T^2_f $$",
+        "option_c": "$$ h_r = -4s \\ c \\ T^3_f $$",  
+        "option_d": "$$ h_r = -3s \\ c \\ T^2_f $$",
         "correct_option": "a"
     },
     {
-        "question": "The direction of the flow is dictated by",
+        "question": "The combine (radiative and convective) heat transfer coefficient is given by",
         "qid": 3,
-        "option_a": "Pressure head",
-        "option_b": "Velocity head",
-        "option_c": "Total head",
-        "option_d": "Potential head",
-        "correct_option": "c"
+        "option_a": "$$ \\frac{1}{h_cA} = \\frac{1}{h_rA} + \\frac{1}{hA} $$",
+        "option_b": "$$ \\frac{1}{h_cA} =  \\frac{h_rA}{hA} $$",
+        "option_c": "$$ \\frac{1}{h_cA} = \\frac{hA}{h_rA} $$",
+        "option_d": "$$ \\frac{1}{h_cA} = \\frac{1}{h_rA} - \\frac{1}{hA} $$",
+        "correct_option": "b"
     }
 ]
