@@ -1,1 +1,1 @@
-<h2> AIM: To study flow through Venturimeter. </h2>
+<h2> AIM: To study Heat transfer in combined mode. </h2>
